@@ -8,6 +8,9 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ![image](https://user-images.githubusercontent.com/92649046/151712945-556597f9-6bc0-4987-a630-fac88c3cd991.png)
 
+## Demo
+https://watch.screencastify.com/v/WQdLQof864nF9bt8w4Bj
+
 ## User Story
 ```
 As a business owner
