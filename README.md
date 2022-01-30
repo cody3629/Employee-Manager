@@ -1,20 +1,10 @@
-# 12-mysql-employee-tracker
+# Employee Tracker
 
-Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
+Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, my challenge was to create and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
 
 ## Description
-* Functional application.
-
-* GitHub repository with a unique name and a README describing the project.
-
-* The command-line application should allow users to:
-
-  * Add departments, roles, employees
-
-  * View departments, roles, employees
-
-  * Update employee roles
+* Functioning application that adds, removes, and lists employees/roles/departments in a company.
 
 ## User Story
 ```
@@ -39,8 +29,10 @@ So that I can organize and plan my business
 3. npm i inquirer
 4. npm i mysql
 5. npm i console.table
-6. make sure to run .sql file in mySQL workbench before running server.js so that tables are able to render correctly
-7. run node server.js
-8. make sure server.js is connected to SQL before continuing
+6. make sure to run schema.sql file in mySQL workbench before running node server.js so that prompts/info are pulled correctly
+7. make sure server.js is connected to SQL before continuing
+8. run node server.js
 9. run through prompts as required 
 
+## License
+MIT
