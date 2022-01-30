@@ -30,9 +30,10 @@ So that I can organize and plan my business
 4. npm i mysql
 5. npm i console.table
 6. make sure to run schema.sql file in mySQL workbench before running node server.js so that prompts/info are pulled correctly
-7. make sure server.js is connected to SQL before continuing
-8. run node server.js
-9. run through prompts as required 
+7. replace your sql password in the 'password' field on line 18 on server.js so mysql runs properly
+8. make sure server.js is connected to SQL before continuing
+9. run node server.js
+10. run through prompts as required 
 
 ## License
 MIT
