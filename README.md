@@ -6,6 +6,8 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 ## Description
 * Functioning application that adds, removes, and lists employees/roles/departments in a company.
 
+![image](https://user-images.githubusercontent.com/92649046/151712945-556597f9-6bc0-4987-a630-fac88c3cd991.png)
+
 ## User Story
 ```
 As a business owner
